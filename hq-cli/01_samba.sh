@@ -1,0 +1,5 @@
+echo "Enter into domain from control panel"
+echo "AU-TEAM.IRPO"
+echo "AU-TEAM"
+echo "hq-cli"
+echo "Launch next script after sudo rule creation"
