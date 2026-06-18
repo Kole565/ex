@@ -1,4 +1,4 @@
 hq-srv ansible_host=sshuser@hq-srv ansible_port=2026 # Migrate to ansible_user if possible
 hq-cli ansible_host=sshuser@hq-cli ansible_port=2026
-hq-rtr ansible_host=net_admin@hq-rtr ansible_port=22
-br-rtr ansible_host=net_admin@br-rtr ansible_port=22
+hq-rtr ansible_host=net_admin@hq-rtr ansible_port=2026
+br-rtr ansible_host=net_admin@br-rtr ansible_port=2026

@@ -1,1 +1,2 @@
-cat ./frr_input | vtysh
+cat ./frr.input | vtysh
+
