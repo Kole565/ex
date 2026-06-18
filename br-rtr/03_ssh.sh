@@ -1,4 +1,4 @@
-useradd net_admin -m -u
+useradd net_admin -m
 passwd net_admin
 echo "net_admin	ALL=(ALL:ALL) NOPASSWD: ALL" >> /etc/sudoers
 
